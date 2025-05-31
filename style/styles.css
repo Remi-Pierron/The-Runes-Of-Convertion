@@ -8,7 +8,7 @@
   body {
     font-family: "Microsoft Himalaya", "Georgia Pro", sans-serif;
     line-height: 1.6;
-    background: url("background.jpeg") no-repeat center center fixed;
+    background: url("../images/background.jpeg") no-repeat center center fixed;
     background-size: cover;
     color: rgb(197, 168, 255);
     padding: 20px;
